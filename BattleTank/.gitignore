@@ -6,7 +6,7 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BattleTank/Content/StarterContent/Architecture/
+BT_04/Content/StarterContent/Architecture/
 
 
 ######################
@@ -14,3 +14,6 @@ BattleTank/Content/StarterContent/Architecture/
 #####################
 
 *.VC.db
+*.suo
+*.VC.opendb
+*.sln
